@@ -1,8 +1,8 @@
 
-	--CREATE TABLE bookings (
-	booking_id INT PRIMARY KEY,
-	listing_name VARCHAR,
-	host_id INT,
+  --CREATE TABLE bookings (
+  booking_id INT PRIMARY KEY,
+  listing_name VARCHAR,
+  host_id INT,
 	host_name VARCHAR(50),
 	neighbourhood_group VARCHAR(30),
 	neighbourhood VARCHAR(30),	
